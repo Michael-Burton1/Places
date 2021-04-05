@@ -2,7 +2,7 @@
 
 #### _Using numerous technologies, this website will reorganize numbers inputed for a fun user friendly experience._
 
-#### By _**Brandon Magofna**_
+#### By _**Michael Burton & Brandon Magofna**_
 
 ## Technologies Used
 
